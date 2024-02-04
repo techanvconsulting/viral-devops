@@ -3,6 +3,7 @@
 new setup devops
 
 linux Command 
-pwd
+pwd 
 ls 
-ls -a
+ls -a : show hidden files
+ls -l : show long long details
