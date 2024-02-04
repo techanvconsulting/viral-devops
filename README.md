@@ -21,3 +21,16 @@ man : show how to use cmd
 | \ : use this symbol
 tr : translate
 cat file.txt | tr a-z A-Z > upper.txt : convert file.txt data to uppercase and save in upper.txt
+â
+mkdir -p que/parent/testpass/case1
+open <filename> <folder>
+cp <filename> <copyfilename>
+mv <filename> destination
+mv <filename> <newfilename> :rename
+mv <filename> dest/<newfilename> : rename filename and move in new folder
+rm <filename>
+rm -r <folder>
+rm _rf <folder>
+sudo cmd
+df 
+df -h
